@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613037268600",
+    "project_id": "short-tales",
+    "storage_bucket": "short-tales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613037268600:android:217458c8f0978b9557978d",
+        "android_client_info": {
+          "package_name": "com.example.short_tales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613037268600-4ubs0n8he3ghljh3orv8jhdco4vtf5c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6-Y27ftkzIWhXOYbrnfy6c9YnzYKLLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613037268600-4ubs0n8he3ghljh3orv8jhdco4vtf5c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
